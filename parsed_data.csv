@@ -1,0 +1,6 @@
+﻿type,timestamp,entry,content,error
+text_log,2024-11-18T07:29:54.994,2024-11-18T07:29:54.994 IndexOutOfBounds...,,
+text_log,2024-11-18T23:12:10.994,user_423 performed purchase at 2024-11-18...,,
+error,,BASE64,,Incorrect padding
+,,...,,
+unknown_base64,,"BASE64 decoded content (non-JSON, raw text)",raw text,
